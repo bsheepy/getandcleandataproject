@@ -22,3 +22,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
     From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Good luck!
+
+
+1. Download and unzip the data folder "UCI HAR Dataset" into your working directory.
+The code book describes the data
